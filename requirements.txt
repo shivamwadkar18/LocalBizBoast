@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+altair
+statsmodels
+openpyxl
+scikit-learn
+python-dateutil
+google-generativeai
