@@ -1,5 +1,3 @@
-#LocalBizBoost
-
 
 📈 LocalBizBoost — AI-Driven Business Analytics Platform
 
