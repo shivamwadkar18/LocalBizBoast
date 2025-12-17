@@ -1,4 +1,4 @@
-
+#LocalBizBoost
 📈 LocalBizBoost — AI-Driven Business Analytics Platform
 
 LocalBizBoost is an AI-powered analytics platform built to help local shopkeepers and small businesses analyze sales data, forecast demand, and receive AI-generated business insights — without requiring technical expertise.
